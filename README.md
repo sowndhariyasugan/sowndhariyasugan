@@ -79,6 +79,16 @@
 
 ---
 
+### 🌍 **Open Source Contributions**
+🚀 **Exploring the world of open source & contributing to beginner-friendly projects!**  
+✅ Actively participating in **Java, Spring Boot, and backend-related repositories**.  
+✅ Writing **unit tests, fixing bugs, and improving documentation** to support the community.  
+✅ Contributed to **Java_Beginner_Projects**, helping enhance project test coverage.  
+✅ Open to collaborating on exciting projects—let’s build something amazing together!  
+
+---
+
+
 ### 🤝 **Let's Connect!**
 🌐 **Portfolio:** [your-portfolio-link.com](#)  
 💼 **LinkedIn:** [Sowndhariya Saravanan](https://www.linkedin.com/in/sowndhariya-saravanan-73465027b/)  
